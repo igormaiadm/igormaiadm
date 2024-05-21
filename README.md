@@ -1,4 +1,4 @@
-Developer with a second degree in civil engineering, committed to project management, leadership and construction methods intertwined with the universe of technology. During my career, I was involved in projects that explored the intersection between technology and  engineering, allowing me to understand how both areas complement each other. With this background, I made a successful transition to the **Software Development** area. Always looking for new challenges!
+Desenvolvedor com formação complementar em engenharia civil, trazendo consigo experiências em gestão de projetos, liderança e métodos construtivos que se entrelaçam com o universo da tecnologia. Durante minha trajetória, estive envolvido em projetos que exploraram a interseção entre tecnologia e engenharia, permitindo-me compreender como ambas as áreas se complementam. Com essa bagagem, fiz uma transição bem-sucedida para a área de Desenvolvimento de Software. Always looking for new challenges!
 
 Always looking for new challenges! 🚀
 
