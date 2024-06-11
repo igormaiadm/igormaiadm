@@ -1,8 +1,10 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
-**Desenvolvedor** com formação complementar em engenharia civil, trazendo consigo experiências em gestão de projetos, liderança de equipes e vivências internacionais que se entrelaçam com o universo da tecnologia. Durante minha trajetória, estive envolvido em projetos que exploraram a interseção entre tecnologia e engenharia, permitindo-me compreender como ambas as áreas se complementam. Com essa bagagem, fiz uma transição bem-sucedida para a área de **Desenvolvimento de Software**.
+👨‍💻 **Desenvolvedor Full Stack** com formação complementar em engenharia civil, trazendo consigo experiências em **desenvolvimento web, programação, análise de dados, gestão de projetos, liderança de equipes e vivências internacionais** que se entrelaçam com o universo da tecnologia. Tenho paixão por transformar ideias complexas em aplicações web e móveis funcionais, escaláveis e de alta performance.
 
-Always looking for new challenges! 🚀
+Durante minha trajetória, estive envolvido em projetos que exploraram a interseção entre tecnologia e engenharia, permitindo-me compreender como ambas as áreas se complementam 💻🤝📐. Com essa bagagem, fiz uma transição bem-sucedida para a área de **Desenvolvimento de Software.** Além da tecnologia, sou um entusiasta por aprender novas línguas e culturas 🌍, o que me ajuda a ter uma perspectiva diversificada e adaptável em diferentes ambientes de trabalho.*
+
+Always looking for ***new challenges***! 🚀
 
 📧 How to reach me: igormaiadm@gmail.com
 
@@ -28,6 +30,7 @@ Always looking for new challenges! 🚀
 ### Minhas redes sociais:
  
 <div>
+  <a href = "https://igormaiadm.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igormaiademoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/igormaiadm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:igormaiadm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
